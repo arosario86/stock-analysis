@@ -12,6 +12,10 @@ My final task was then to refactor my code so that the reporting can be resulted
 The intial report ran a little longer than the refactored report.
 The first report and its initial code ran longer due to its longer macro code, whereas the refactored code came back quicker.
 The 2017 report came back with 0.148 seconds result and the 2018 report came back with 0.371 seconds.
+
+![2017](https://user-images.githubusercontent.com/104965708/174199456-14151533-dd06-4848-8380-2246c5f58ea0.png)
+![2018](https://user-images.githubusercontent.com/104965708/174199466-35b7668f-a80c-4449-a36b-8df05ecb8ead.png)
+
 Based on the results of each reported year, TERP had a negative return of -7.2%, and in 2018 had a negative return of -5.0%.
 Steve's parent's should look into investing with RUN which had a return of 84% in 2018, and 5.5% in 2017.
 
